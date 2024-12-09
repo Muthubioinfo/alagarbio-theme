@@ -7,20 +7,13 @@ Unlike most Jekyll Themes, Business Jekyll Theme is not meant to be a single pag
 Big thanks to the creator of Office as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
 
 **Example Site**
-- [Business Jekyll Theme](https://business-jekyll-theme.github.io)
-
-**Example Site From The Original Creator**
-- [Office Template](http://demo.themewagon.com/preview/office-responsive-multipage-bootstrap-template)
+- [Business Jekyll Theme]([https://business-jekyll-theme.github.io](https://muthubioinfo.github.io/alagarbio-theme/))
 
 ## Feature
 - Responsive layout
-- CSS Framework - Bootstrap 3
-- Beautiful icons by Fontawesome
-- Clean, simple and elegant
 - Multi page Template
 - Well commented and structured coding
-- Easy to use
-- It's Free!
+- Easy and free to use
 
 ## Note
 I removed certain features from the original theme packages as we do not really need it. I modified the original source code slightly to make it more mobile friendly and reusable. 
