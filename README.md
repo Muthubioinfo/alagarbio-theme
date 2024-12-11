@@ -1,6 +1,6 @@
 # Alagar Biotech Jekyll Theme
 
-Alagar Biotech Jekyll Theme is designed based on Business Jekyll theme ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obtained from [Melvin Ch'ng](http://melvinchng.github.io) and Technext's [repository](https://github.com/technext/office).
+Alagar Biotech Jekyll Theme is designed based on Business Jekyll theme ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obtained from [Business Jekyll theme](http://melvinchng.github.io) and Technext's [repository](https://github.com/technext/office).
 
 This theme is a package that you can use for your business. I reorganized all the files and make it Jekyll friendly.
 
