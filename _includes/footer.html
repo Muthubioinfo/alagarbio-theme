@@ -7,7 +7,6 @@
         <p class="footer-contact">
           {{ site.company_name }} <br>
           Phone: {{ site.telephone_number }} <br>
-          Fax: {{ site.fax_number }} <br>
           Email: {{ site.company_email }}<br>
         </p>
       </div>
@@ -28,21 +27,9 @@
             </a>
           {% endif %}
 
-          {% if site.linkedin_link %}
-            <a href="{{ site.linkedin_link }}" class="btn-group linkedin">
-              <i class="fa fa-linkedin-square"></i>
-            </a>
-          {% endif %}
-
-          {% if site.facebook_link %}
-            <a href="{{ site.twitter_link }}" class="btn-group twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-          {% endif %}
-
-          {% if site.facebook_link %}
-            <a href="{{ site.facebook_link }}" class="btn-group facebook">
-              <i class="fa fa-facebook"></i>
+          {% if site.X_link %}
+            <a href="{{ site.X_link }}" class="btn-group X">
+              <i class="fa fa-X"></i>
             </a>
           {% endif %}
         </div>
@@ -51,6 +38,6 @@
   </div>
 
   <div class="copyright text center">
-    <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href="#">Your Website Link</a>. <br>Theme ported by <a href="https://melvinchng.github.io/" target="_blank">Melvin Ch'ng</a></p>
+    <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href="#">Your Website Link</a>. <br>Theme ported by <a href="https://Muthubioinfo.github.io/alagarbio-theme/" target="_blank">Melvin Ch'ng</a></p>
   </div>
 </footer>
