@@ -5,7 +5,7 @@ Alagar Biotech Jekyll Theme is designed based on Business Jekyll theme ported ov
 This theme is a package that you can use for your business. I reorganized all the files and make it Jekyll friendly.
 
 **Example Site**
-- [Alagar Biotech Jekyll Theme]([https://business-jekyll-theme.github.io](https://muthubioinfo.github.io/alagarbio-theme/))
+- [Alagar Biotech Jekyll Theme](https://muthubioinfo.github.io/alagarbio-theme/)
 
 ## Feature
 - Responsive layout
