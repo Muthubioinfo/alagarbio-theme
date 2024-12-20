@@ -26,12 +26,11 @@ company_name: Alagar Biotech Product Pvt Ltd
 address_line: 3/310, Raja Badar St, Nainarkuppam, Chennai, Tamil Nadu 600119
 mobile_whatsapp_number: 9498402214
 company_email: alagarbioteches091@gmail.com
-google_map: https://maps.app.goo.gl/hDafKvw5fwykugDGA
+google_map: [https://maps.app.goo.gl/hDafKvw5fwykugDGA](https://maps.app.goo.gl/hDafKvw5fwykugDGA)
 
 # Social Link
-facebook_link: http://www.facebook.com
-X_link: https://x.com/alagarbiotech
-review_link: https://g.page/r/CWne1A2RNyGoEBM/review
+X_link: [https://x.com/alagarbiotech](https://x.com/alagarbiotech)
+review_link: [https://g.page/r/CWne1A2RNyGoEBM/review](https://g.page/r/CWne1A2RNyGoEBM/review)
 
 # Build settings
 markdown: kramdown
