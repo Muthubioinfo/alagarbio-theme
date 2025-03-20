@@ -272,7 +272,7 @@ address {
 .banner-text{
     font-family: 'Raleway', sans-serif;
     color:white;
-    font-size: 45px;
+    font-size: 10px;
 
     }
 
@@ -285,10 +285,10 @@ address {
     background-image:url('../img/slider/1.jpg');
     height:350px;
     margin-bottom: 30px;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
-@media (min-width: 100px) and (max-width: 800px) { 
+@media (min-width: 200px) and (max-width: 800px) { 
  
     #banner-home{
     background-image:url('../img/slider/1.jpg');
