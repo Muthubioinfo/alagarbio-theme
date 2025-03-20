@@ -242,7 +242,7 @@ address {
 */
 .navbar-nav > li > a {
   padding: 10px 10px;
-  margin: 5px 5px;
+  margin: 10px 5px;
   border-radius: 4px;
 }
 /*
@@ -259,7 +259,7 @@ address {
   padding-top: 0px;
 }
 .side-left{
-  padding: 50px;
+  padding: 55px;
   letter-spacing: .9px;
 }
 @media (min-width: 800px){ 
@@ -272,12 +272,11 @@ address {
 .banner-text{
     font-family: 'Raleway', sans-serif;
     color:white;
-    font-size: 10px;
+    font-size: 45px;
 
     }
 
 #banners{
-    
     margin-top: 30px;
     margin-bottom: 10px;
 }
