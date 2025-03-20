@@ -241,8 +241,8 @@ address {
 * ==========================================================================
 */
 .navbar-nav > li > a {
-  padding: 20px 20px;
-  margin: 10px 10px;
+  padding: 8px 8px;
+  margin: 5px 5px;
   border-radius: 4px;
 }
 /*
@@ -259,7 +259,7 @@ address {
   padding-top: 0px;
 }
 .side-left{
-  padding: 55px;
+  padding: 50px;
   letter-spacing: .9px;
 }
 @media (min-width: 800px){ 
@@ -272,7 +272,7 @@ address {
 .banner-text{
     font-family: 'Raleway', sans-serif;
     color:white;
-    font-size: 45px;
+    font-size: 10px;
 
     }
 
