@@ -232,7 +232,7 @@ address {
 .navbar {
   font-weight: bold;
   padding-top: 25px;
-  padding-bottom: 60px;
+  padding-bottom: 55px;
   margin-bottom: 0;
 }
 /*
@@ -241,8 +241,8 @@ address {
 * ==========================================================================
 */
 .navbar-nav > li > a {
-  padding: 10px 10px;
-  margin: 5px 5px;
+  padding: 20px 20px;
+  margin: 10px 10px;
   border-radius: 4px;
 }
 /*
@@ -309,11 +309,11 @@ address {
 
     font-family: 'PT Sans', sans-serif;
     font-size: 40px;
-    margin-top:0px;
+    margin-top:5px;
     display: inline-block;
     width: 270px;
     height: 96px;
-    padding: 0px 0px;
+    padding: 40px 10px;
     /*background: url(../img/logo.png) 20px center no-repeat; */
 }
 @media (min-width: 50px) and (max-width: 768px) { 
@@ -347,7 +347,7 @@ address {
 .sidebar-right{
     font-size: 13px;
     font-weight: bold;
-    color:#ffffff;
+    color:#84d7bd;
 }
 
 .featured-img{
