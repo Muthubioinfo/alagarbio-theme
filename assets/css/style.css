@@ -347,7 +347,7 @@ address {
 .sidebar-right{
     font-size: 13px;
     font-weight: bold;
-    color:#84d7bd;
+    color:#ffffff;
 }
 
 .featured-img{
@@ -366,12 +366,12 @@ p.blog-text{
     margin-left: 21px;
 }
 
-.office-logo {
+.alagar-logo {
   width: 100px;
 }
 
 @media (max-width: 768px){ 
-    .office-logo{
+    .alagar-logo{
       height: 100px;
       width: 60px;
   }
