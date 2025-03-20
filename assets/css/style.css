@@ -241,8 +241,8 @@ address {
 * ==========================================================================
 */
 .navbar-nav > li > a {
-  padding: 10px 10px;
-  margin: 10px 5px;
+  padding: 20px 10px;
+  margin: 5px 5px;
   border-radius: 4px;
 }
 /*
