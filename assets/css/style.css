@@ -262,7 +262,7 @@ address {
   background:#528C7C;
   box-shadow: 3px grey;
   color: white;
-  padding: 35px;
+  padding: 40px;
   letter-spacing: .9px;
 }
 @media (min-width: 800px){ 
