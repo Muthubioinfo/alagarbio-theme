@@ -242,7 +242,7 @@ address {
 */
 .navbar-nav > li > a {
   padding: 10px 15px;
-  margin: 3px 3px;
+  margin: 5px 5px;
   border-radius: 4px;
 }
 /*
@@ -253,7 +253,7 @@ address {
 .navbar-brand {  
   z-index: 9999px;
   font-family: 'Lato', Arial, Helvetica, sans-serif;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   letter-spacing: 2px;
   padding-top: 0px;
@@ -262,7 +262,7 @@ address {
   background:#528C7C;
   box-shadow: 3px grey;
   color: white;
-  padding: 30px;
+  padding: 35px;
   letter-spacing: .9px;
 }
 @media (min-width: 800px){ 
