@@ -347,11 +347,10 @@ address {
 .sidebar-right{
     font-size: 13px;
     font-weight: bold;
-    color:#84d7bd;
 }
 
 .featured-img{
-    padding: 0px 5px 15px 0;
+    padding: 0px 15px 15px 0;
 
 }
 p.blog-text{   
@@ -460,7 +459,7 @@ p.blog-text{
 .services-icon .fa:hover{
     padding: 0 10px 0 10px;
     color: white;
-    background: #1BBD9B;
+    background: #B3C848;
     border-radius: 3px; 
     transition:.4s;  
 }
