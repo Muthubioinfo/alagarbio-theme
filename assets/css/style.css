@@ -429,7 +429,7 @@ p.blog-text{
   font-size: 25px;
 }
 .services-section .services-header .services-header-title {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .services-section .services-row-tail {
   margin-top: 50px;
@@ -446,7 +446,7 @@ p.blog-text{
 }
 @media (max-width: 767px) {
   .services-section {
-    padding-top: 40px;
+    padding-top: 70px;
     padding-bottom: 40px;
   }
   .services-section .services-group {
