@@ -152,7 +152,7 @@ body {
 }
 
 a {
-    color: #55CBD2;
+    color: #B3C848;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -194,7 +194,7 @@ address {
 .nav-pills > li.selected > a:hover,
 .nav-pills > li.selected > a:focus {
   color: #ffffff;
-  background-color: #1bbd9b;
+  background-color: #B3C848;
 }
 /*
 * ==========================================================================
@@ -218,7 +218,7 @@ address {
 .nav-pills-centered > .nav-pills > li > a.selected,
 .nav-pills-centered > .nav-pills > li > span.selected {
   color: #ffffff;
-  background-color: #1bbd9b;
+  background-color: #B3C848;
 }
 /*
 * ==========================================================================
@@ -402,7 +402,7 @@ p.blog-text{
   }
 }
 .feedback-section .address-section .address-icon {
-  color: #1bbd9b;
+  color: #B3C848;
   font-size: 48px;
   line-height: 48px;
   margin-bottom: 30px;
@@ -435,7 +435,7 @@ p.blog-text{
   margin-top: 50px;
 }
 .services-section .services-icon {
-  color: #1bbd9b;
+  color: #B3C848;
   margin-bottom: 30px;
 }
 .services-section .services-title {
