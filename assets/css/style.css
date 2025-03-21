@@ -312,8 +312,8 @@ address {
     margin-top:5px;
     display: inline-block;
     width: 270px;
-    height: 96px;
-    padding: 80px 10px;
+    height: 150px;
+    padding: 80px 700px;
     /*background: url(../img/logo.png) 20px center no-repeat; */
 }
 @media (min-width: 50px) and (max-width: 768px) { 
