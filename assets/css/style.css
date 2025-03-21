@@ -436,13 +436,13 @@ p.blog-text{
 }
 .services-section .services-icon {
   color: #B3C848;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .services-section .services-title {
-  margin-bottom: 45px;
+  margin-bottom: 30px;
 }
 .services-section .services-desc {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 @media (max-width: 767px) {
   .services-section {
