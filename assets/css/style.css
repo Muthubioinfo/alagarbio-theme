@@ -429,7 +429,9 @@ p.blog-text{
   font-size: 25px;
 }
 .services-section .services-header .services-header-title {
-  margin-bottom: 20px;
+    display: inline-block;
+    border-bottom: 4px #B3C848; /* Adjust thickness and color */
+    padding-bottom: 5px; /* Space between text and line */
 }
 .services-section .services-row-tail {
   margin-top: 50px;
