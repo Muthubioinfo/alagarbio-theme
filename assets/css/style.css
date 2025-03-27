@@ -430,7 +430,8 @@ p.blog-text{
 }
 .services-section .services-header .services-header-title {
     display: inline-block;
-    border-bottom: 4px #B3C848; /* Adjust thickness and color */
+    color: #67A7A6;
+    border-bottom: 4px; /* Adjust thickness */
     padding-bottom: 5px; /* Space between text and line */
 }
 .services-section .services-row-tail {
