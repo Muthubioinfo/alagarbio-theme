@@ -423,9 +423,9 @@ p.blog-text{
 
 .type-panel-wrapper {
   position: relative;
-  margin: 120px;
-  width: 700px;
-  text-align: center;
+  margin: 60px;
+  width: 500px;
+  text-align: left;
 }
 
 .type-panel-title {
@@ -434,7 +434,7 @@ p.blog-text{
   left: -20px;
   background-color: #148c82;
   color: black;
-  padding: 20px 40px;
+  padding: 30px 50px;
   font-size: 32px;
   font-weight: bold;
   border: 2px solid white;
