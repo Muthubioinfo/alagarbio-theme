@@ -425,17 +425,44 @@ p.blog-text{
   border: 1px solid #8FB67B;
   margin: 20px;
   padding: 15px;
-  border-radius: 8px;
+  border-radius: 18px;
 }
 
 .category-title {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .type-panel {
-  margin-left: 20px;
+  margin-left: 50px;
+}
+
+.type-panel-wrapper {
+  position: relative;
+  margin: 40px;
+  width: 500px;
+}
+
+.type-panel-title {
+  position: absolute;
+  top: -30px;
+  left: -20px;
+  background-color: #148c82;
+  color: black;
+  padding: 20px 40px;
+  font-size: 32px;
+  font-weight: bold;
+  border: 2px solid white;
+  z-index: 2;
+}
+
+.type-panel-content {
+  background-color: #148c82;
+  padding: 40px;
+  border: 2px solid white;
+  margin-top: 40px;
+  z-index: 1;
 }
 
 .type-link {
@@ -787,3 +814,4 @@ footer h3 {
     font-size: 14px;
   }
 }
+
