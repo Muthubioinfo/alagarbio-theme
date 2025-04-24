@@ -423,12 +423,14 @@ p.blog-text{
 
 .type-panel-wrapper {
   position: relative;
-  margin: 40px;
+  margin: 40px auto;
   width: 500px;
+  text-align: center;
 }
 
 .type-panel-title {
-  position: absolute;
+  display: inline-block;
+  position: relative;
   top: -30px;
   left: -20px;
   background-color: #148c82;
@@ -446,6 +448,7 @@ p.blog-text{
   border: 2px solid white;
   margin-top: 40px;
   z-index: 1;
+  display: inline-block;
 }
 
 .type-link {
