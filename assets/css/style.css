@@ -422,14 +422,13 @@ p.blog-text{
 */
 
 .type-panel-wrapper {
-  position: relative;
-  margin: 60px;
+  position: absolute;
+  margin: 30px;
   width: 500px;
-  text-align: left;
 }
 
 .type-panel-title {
-  position: relative;
+  position: absolute;
   top: -30px;
   left: -20px;
   background-color: #148c82;
@@ -451,7 +450,7 @@ p.blog-text{
 
 .type-link {
    display: block;
-   margin: 5px 0;
+   margin: 7px 0;
    color: #000000;
    text-decoration:  underline;
    font-size: 30px;
