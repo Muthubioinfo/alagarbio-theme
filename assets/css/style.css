@@ -421,43 +421,32 @@ p.blog-text{
 * ================
 */
 
-.type-panel-wrapper {
-  position: absolute;
-  margin: 40px;
-  width: 500px;
+.category-panel {
+  border: 1px solid #ccc;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 8px;
 }
 
-.type-panel-title {
-  position: absolute;
-  top: -30px;
-  left: -20px;
-  background-color: #148c82;
-  color: black;
-  padding: 20px 60px;
-  font-size: 32px;
+.category-title {
+  font-size: 24px;
   font-weight: bold;
-  border: 2px solid white;
-  z-index: 2;
+  margin-bottom: 10px;
 }
 
-.type-panel-content {
-  background-color: #148c82;
-  padding: 40px;
-  border: 2px solid white;
-  margin-top: 40px;
-  z-index: 1;
+.type-panel {
+  margin-left: 20px;
 }
 
 .type-link {
-   display: block;
-   margin: 5px 0;
-   color: #000000;
-   text-decoration:  underline;
-   font-size: 30px;
+  display: block;
+  margin: 5px 0;
+  color: #2a7ae2;
+  text-decoration: none;
 }
 
 .type-link:hover {
-   text-decoration: underline;
+  text-decoration: underline;
 }
 
 
