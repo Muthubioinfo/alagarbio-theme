@@ -421,7 +421,7 @@ p.blog-text{
 * ================
 
 .category-panel {
-  border: 1px solid #ccc;
+  border: 1px solid #8FB67B;
   margin: 20px;
   padding: 15px;
   border-radius: 8px;
@@ -438,10 +438,11 @@ p.blog-text{
 }
 
 .type-link {
-  display: block;
-  margin: 5px 0;
-  color: #2a7ae2;
-  text-decoration: none;
+   display: block;
+   margin: 5px 0;
+   color: #000000;
+   text-decoration:  underline;
+   font-size: 30px;
 }
 
 .type-link:hover {
