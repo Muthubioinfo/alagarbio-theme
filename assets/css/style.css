@@ -425,6 +425,7 @@ p.blog-text{
   font-family: 'Athelas', sans-serif;
   border: 1px solid #12897D;
   margin: 20px;
+  margin-left: 40px;
   padding: 15px;
   border-radius: 8px;
   background-color: #12897D; 
@@ -432,11 +433,12 @@ p.blog-text{
 
 .category-panel-pots {
   font-family: 'Athelas', sans-serif;
-  border: 1px solid #ffffff;
+  border: 1px solid #C55A62;
   margin: 20px;
+  margin-left: 40px;
   padding: 15px;
   border-radius: 8px;
-  background-color: #ffffff; 
+  background-color: #C55A62; 
 }
 
 .category-panel-manure {
@@ -465,7 +467,7 @@ p.blog-text{
 
 .type-panel-pots {
   margin-left: 50px;
-  color: #ffffff;
+  color: #C55A62;
 }
 
 .type-panel-manure {
