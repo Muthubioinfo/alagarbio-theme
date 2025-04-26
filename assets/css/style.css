@@ -435,12 +435,13 @@ p.blog-text{
 }
 
 .type-panel {
-  margin-left: 20px;
+  margin-left: 50px;
+  color: #ffffff
 }
 
 .type-link {
   display: block;
-  margin: 5px 0;
+  margin: 10px 0;
   font-size: 25px;
   color: #006400;
   text-decoration: none;
