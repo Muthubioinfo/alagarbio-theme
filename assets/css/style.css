@@ -444,6 +444,7 @@ p.blog-text{
 }
 
 .type-link {
+  font-family: 'Copperplate', sans-serif;
   display: block;
   margin: 10px 0;
   font-size: 25px;
