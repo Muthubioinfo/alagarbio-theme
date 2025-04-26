@@ -430,6 +430,24 @@ p.blog-text{
   background-color: #12897D; 
 }
 
+.category-panel-pots {
+  font-family: 'Copperplate', sans-serif;
+  border: 1px solid #C55A62;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #C55A62; 
+}
+
+.category-panel-manure {
+  font-family: 'Copperplate', sans-serif;
+  border: 1px solid #883DC4;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #883DC4; 
+}
+
 .category-title {
   font-family: 'Copperplate', sans-serif;
   font-size: 28px;
