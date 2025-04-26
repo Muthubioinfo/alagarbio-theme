@@ -461,6 +461,16 @@ p.blog-text{
   color: #12897D;
 }
 
+.type-panel-pots {
+  margin-left: 50px;
+  color: #C55A62;
+}
+
+.type-panel-manure {
+  margin-left: 50px;
+  color: #883DC4;
+}
+
 .type-link {
   font-family: 'Copperplate', sans-serif;
   display: block;
