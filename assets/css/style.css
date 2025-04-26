@@ -455,24 +455,27 @@ p.blog-text{
   font-size: 28px;
   font-weight: bold;
   margin-left: 30px;
-  margin-bottom: 15px;
+  margin-bottom: 8px;
   color: #ffffff;
   clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
 }
 
 .type-panel {
-  margin-left: 10px;
+  margin-left: 80px;
+  font-size: 22px;
   background-color: #12897D;
 }
 
 .type-panel-pots {
-  margin-left: 10px;
+  margin-left: 80px;
+  font-size: 22px;
   background-color: #C55A62;
   
 }
 
 .type-panel-manure {
-  margin-left: 10px;
+  margin-left: 80px;
+  font-size: 22px;
   color: #883DC4;
   background-color: #883DC4;
 }
