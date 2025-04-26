@@ -422,6 +422,7 @@ p.blog-text{
 */
 
 .category-panel {
+  font-family: 'Copperplate', sans-serif;
   border: 1px solid #12897D;
   margin: 20px;
   padding: 15px;
@@ -430,21 +431,25 @@ p.blog-text{
 }
 
 .category-title {
+  font-family: 'Copperplate', sans-serif;
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 15px;
+  color: #ffffff;
 }
 
 .type-panel {
+  font-family: 'Copperplate', sans-serif;
   margin-left: 50px;
   color: #12897D;
 }
 
 .type-link {
+  font-family: 'Copperplate', sans-serif;
   display: block;
   margin: 10px 0;
   font-size: 25px;
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
 }
 
