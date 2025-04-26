@@ -429,7 +429,7 @@ p.blog-text{
 }
 
 .category-title {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
   margin-bottom: 10px;
 }
@@ -441,7 +441,8 @@ p.blog-text{
 .type-link {
   display: block;
   margin: 5px 0;
-  color: #2a7ae2;
+  font-size: 25px;
+  color: #006400;
   text-decoration: none;
 }
 
