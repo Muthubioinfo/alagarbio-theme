@@ -422,7 +422,7 @@ p.blog-text{
 */
 
 .category-panel {
-  font-family: 'Copperplate', sans-serif;
+  font-family: 'Athelas', sans-serif;
   border: 1px solid #12897D;
   margin: 20px;
   padding: 15px;
@@ -431,7 +431,7 @@ p.blog-text{
 }
 
 .category-panel-pots {
-  font-family: 'Copperplate', sans-serif;
+  font-family: 'Athelas', sans-serif;
   border: 1px solid #C55A62;
   margin: 20px;
   padding: 15px;
@@ -440,7 +440,7 @@ p.blog-text{
 }
 
 .category-panel-manure {
-  font-family: 'Copperplate', sans-serif;
+  font-family: 'Athelas', sans-serif;
   border: 1px solid #883DC4;
   margin: 20px;
   padding: 15px;
@@ -449,11 +449,12 @@ p.blog-text{
 }
 
 .category-title {
-  font-family: 'Copperplate', sans-serif;
+  font-family: 'Athelas', sans-serif;
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 15px;
   color: #ffffff;
+  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
 }
 
 .type-panel {
@@ -463,7 +464,7 @@ p.blog-text{
 
 .type-panel-pots {
   margin-left: 50px;
-  color: #C55A62;
+  color: #ffffff;
 }
 
 .type-panel-manure {
@@ -472,7 +473,7 @@ p.blog-text{
 }
 
 .type-link {
-  font-family: 'Copperplate', sans-serif;
+  font-family: 'Athelas', sans-serif;
   display: block;
   margin: 10px 0;
   font-size: 25px;
