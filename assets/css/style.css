@@ -463,16 +463,19 @@ p.blog-text{
 .type-panel {
   margin-left: 50px;
   color: #12897D;
+  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
 }
 
 .type-panel-pots {
   margin-left: 50px;
   color: #C55A62;
+  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
 }
 
 .type-panel-manure {
   margin-left: 50px;
   color: #883DC4;
+  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
 }
 
 .type-link {
