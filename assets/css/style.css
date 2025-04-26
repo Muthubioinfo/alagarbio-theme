@@ -454,28 +454,27 @@ p.blog-text{
   font-family: 'Athelas', sans-serif;
   font-size: 28px;
   font-weight: bold;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-bottom: 15px;
   color: #ffffff;
   clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
 }
 
 .type-panel {
-  margin-left: 50px;
-  color: #12897D;
-  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
+  margin-left: 70px;
+  background-color: #12897D;
 }
 
 .type-panel-pots {
-  margin-left: 50px;
-  color: #C55A62;
-  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
+  margin-left: 70px;
+  background-color: #C55A62;
+  
 }
 
 .type-panel-manure {
-  margin-left: 50px;
+  margin-left: 70px;
   color: #883DC4;
-  clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
+  background-color: #883DC4;
 }
 
 .type-link {
