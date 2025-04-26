@@ -432,11 +432,11 @@ p.blog-text{
 
 .category-panel-pots {
   font-family: 'Athelas', sans-serif;
-  border: 1px solid #C55A62;
+  border: 1px solid #ffffff;
   margin: 20px;
   padding: 15px;
   border-radius: 8px;
-  background-color: #C55A62; 
+  background-color: #ffffff; 
 }
 
 .category-panel-manure {
@@ -452,6 +452,7 @@ p.blog-text{
   font-family: 'Athelas', sans-serif;
   font-size: 28px;
   font-weight: bold;
+  margin-left: 20px;
   margin-bottom: 15px;
   color: #ffffff;
   clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
